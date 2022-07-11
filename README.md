@@ -10,7 +10,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a Junior Developer from Russia.
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I am a MILORD)) Developer from Russia.
 - 🔭 I’m currently working on Freelance
 - 🌱 I’m currently learning JS
 - 🤔 I’m looking for help with WordPress
