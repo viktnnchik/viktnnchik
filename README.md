@@ -11,11 +11,11 @@
 
 
 
-<div align="center">
+
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=viktnnchik&theme=tokyonight_duo&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viktnnchik&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
+
 
 
 
